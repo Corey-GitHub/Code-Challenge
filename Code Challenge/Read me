@@ -1,0 +1,4 @@
+Please customize the "browserDriver" and "browserDriverLocation" variable to reflect the path of the 
+drivers contained in the Drivers folder.
+
+When retesting login with internet explorer please logout after each test.
